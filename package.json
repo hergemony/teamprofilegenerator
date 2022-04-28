@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/hergemony/teamprofilegenerator#readme",
   "dependencies": {
-    "inquirer": "^8.2.3",
-    "jest": "^28.0.2"
+    "inquirer": "^8.2.4",
+    "jest": "^28.0.2",
+    "node": "^17.7.2"
   }
 }

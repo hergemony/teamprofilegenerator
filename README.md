@@ -39,9 +39,6 @@ An 'Employee' parent class with the following properties and methods: name, id, 
 ## Tests
 Tests for 'Employee', 'Manager', 'Engineer', 'Intern' classes. The tests for these classes (in the '_tests_' directory) must ALL pass. No fail messages to indicate success of the application.
 
-## Credits
-
-
 ## Questions
 Any questions please email hergemony@gmail.com
 
