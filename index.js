@@ -163,7 +163,7 @@ function gitEmployee() {
             answers.employeeName,
             answers.employeeId,
             answers.employeeEmail,
-            answers.employeeGithub
+            answers.employeeGithub,
         );
         teamMembers.push(employee);
         addMember();
@@ -222,7 +222,7 @@ function gitEmployee() {
                 answers.engineerName,
                 answers.engineerId,
                 answers.engineerEmail,
-                answers.engineerGithub
+                answers.engineerGithub,
             );
             teamMembers.push(engineer);
             addMember();

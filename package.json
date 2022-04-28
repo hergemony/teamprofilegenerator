@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/hergemony/teamprofilegenerator/issues"
   },
-  "homepage": "https://github.com/hergemony/teamprofilegenerator#readme"
+  "homepage": "https://github.com/hergemony/teamprofilegenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.3"
+  }
 }
