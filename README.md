@@ -25,7 +25,7 @@ Git clone the repository into your terminal. The application should use Jest for
 A Team Profile Generator with tests in place to efficiently generate employee information for an organisation.
 
 ## Screenshot
-
+![alt text](https://github.com/hergemony/teamprofilegenerator/blob/main/dist/assets/images/Screen%20Shot%202022-05-02%20at%2010.34.00%20pm.png?raw=true)
 
 ## Video
 

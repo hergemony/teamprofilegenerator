@@ -1,9 +1,9 @@
 :root {
-  --hue-blue:blue;
-  --hue-gray: rgb(155, 154, 154);
-  --hue-silver: silver;
-  --hue-gold: gold;
-  --hue-bronze:magenta;
+  --hue-blue:rgb(22, 130, 192);
+  --hue-gray:silver;
+  --hue-silver: white;
+  --hue-gold:rgb(216, 216, 108);
+  --hue-bronze:brown;
 }
 
 body {
