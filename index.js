@@ -22,7 +22,7 @@ function gitMembers() {
 
     // Manager function
     function gitManager() {
-        console.log("Lets start building a dream team!");
+        console.log("Let's meet the team!");
         inquirer.prompt([
             {
              type: "input",

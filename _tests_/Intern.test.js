@@ -3,7 +3,7 @@ const Employee = require('../lib/Employee');
 
 test('set school', () => {
     const value = 'Yale';
-    const intern = new Intern('Dutch', 1, 'dutch@ElementInternals.com', value);
+    const intern = new Intern('Dutch', 1, 'dutch@ElementInternls.com', value);
     expect(intern.school).toBe(value);
 });
 test('getSchool()', () => {
