@@ -1,0 +1,63 @@
+:root {
+  --hue-blue:blue;
+  --hue-gray: rgb(155, 154, 154);
+  --hue-silver: silver;
+  --hue-gold: gold;
+  --hue-bronze:magenta;
+}
+
+body {
+  background-color: var(--hue-gray);
+}
+
+.jumbotron {
+  background-color: var(--hue-blue);
+}
+
+.main-section {
+  flex-wrap: wrap;
+  margin: 1em auto;
+}
+
+.employee-card {
+  margin: 1em;
+  max-width: 300px;
+  width: 100%;
+  color: black;
+  display: flex;
+  border: none;
+  border-radius: 10px;
+}
+
+.manager-card {
+  background-color: var(--hue-gold);
+  border: 8px solid var(--hue-blue);
+}
+
+.engineer-card {
+  background-color: var(--hue-silver);
+  border: 8px solid var(--hue-blue);
+}
+
+.intern-card {
+  background-color: var(--hue-bronze);
+  border: 8px solid var(--hue-blue);
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.manager-card .list-group-item {
+  background-color: var(--hue-gold);
+}
+
+.engineer-card .list-group-item {
+  background-color: var(--hue-silver);
+}
+
+.intern-card .list-group-item {
+  background-color: var(--hue-bronze);
+}
