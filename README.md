@@ -6,7 +6,7 @@
 ## Description
 A Node.js command-line application that takes in information about employees on a software engineering team, then generates a HTML webpage that displays summaries for each employee. Unit tests are written for every part of the code to ensure that it passes the test. This project demonstrates the use of OOP and TDD using Jest.
 
-## Table of Contents (optional)
+## Table of Contents
 * [Installation](##Installation)
 * [Usage](##Usage)
 * [Screenshot](#Screenshot)
@@ -39,11 +39,21 @@ A Team Profile Generator with tests in place to efficiently generate employee in
 ## Features
 An 'Employee' parent class with the following properties and methods: name, id, email, getName, getId, getEmail, getRole, officeNumber, getRole, getSchool and so on.
 
+## Credits
+https://stackoverflow.com
+https://w3schools.com
+https://github.com/sam-ngu
+https://github.com/ChristopherPonzio
+https://www.nathan-lam.com/blog/embed-video-in-github-readme.html
+
 ## Tests
 Tests for 'Employee', 'Manager', 'Engineer', 'Intern' classes. The tests for these classes (in the '_tests_' directory) must ALL pass. No fail messages to indicate success of the application.
 
 ## Questions
 Any questions please email hergemony@gmail.com
+
+## Github Deployed Link
+https://hergemony.github.io/teamprofilegenerator/
 
 ## Copyright
 2022 Hergemony™️ Digital Services
