@@ -25,10 +25,13 @@ Git clone the repository into your terminal. The application should use Jest for
 A Team Profile Generator with tests in place to efficiently generate employee information for an organisation.
 
 ## Screenshot
+
+![alt text](https://github.com/hergemony/teamprofilegenerator/blob/main/dist/assets/images/Screen%20Shot%202022-05-02%20at%2010.34.00%20pm.png?raw=true)
+
 ![alt text](https://github.com/hergemony/teamprofilegenerator/blob/main/dist/assets/images/Screen%20Shot%202022-05-03%20at%202.05.00%20pm.png?raw=true)
 
 ## Video
-[![Alt text for your video](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://youtu.be/NLbe0qbgSQ4)
+[![CLICK TO VIEW WALKTHROUGH VIDEO](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://youtu.be/NLbe0qbgSQ4)
 
 ## License
 ![License](https://img.shields.io/badge/License-MIT-blue)
